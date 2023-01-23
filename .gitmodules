@@ -1,0 +1,3 @@
+[submodule "dart_frog"]
+	path = dart_frog
+	url = https://github.com/VeryGoodOpenSource/dart_frog
